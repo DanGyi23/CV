@@ -1,25 +1,27 @@
+[Projects](#latest-projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/daniel-gyi/)
+
 ## Your Name
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+After years of working in PM/Marketing/Saas roles in London, I wanted to start to specialize in doing something more creative. One Direction turned me down, so I decided to join Makers...  
+
+I've been studying at Makers Academy since August 2019, really cementing best practices and understanding of software development.  
+My goal is to work at a company where I can continue to both improve and diversify the skillset that I'm really enjoying developing at Makers, as well as hopefully use some of the experience I've gained working on technical projects in previous roles.
+
+## Latest Projects
+- Makers Challenge - [Student Repository](https://github.com/DanGyi23/student-directory)
+- Makers Challenge - [Ruby Mastery](https://github.com/DanGyi23/mastery-quizzes)
+- Makers Challenge - [CMD Murder Mystery](https://github.com/DanGyi23/clmystery)
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+#### Initiative
 
-#### This Skill
+I love problem solving efficiently. At Brainlabs we were spending too much time on manual creation of ad campaigns, decreasing profitability. I suggested automating the process for Deliveroo, which we later [won an award for](https://www.brainlabsdigital.com/brainlabs-best-large-ppc-agency/)!
 
-- Experience
-- Achievements
-- Evidence
+#### Collaborative
 
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+I've always preferred shared success over individual recognition; the reward of achieving something collectively, for me, is what I always hope to build in any professional role.  
+At Flixmedia, for instance, I developed new processes to help the client and tech teams communicate more effectively, and share responsibility for feature launches and go-live.
 
 ## Education
 
@@ -35,25 +37,28 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Chemistry with Medicinal Chemistry
 - 2:1
 - Ran peer-led tutor groups for year below on both inorganic and physical chemistry modules
-
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
+- Worked at the students union, in events planning and student support
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-- Any experience relevent to software development
+**Brainlabs Digital** (Mar 2015 - Aug 2016)    
+*Account Director*  
+- Won "Best Local Campaign" at UK Search Awards for writing JS script that automated campaign creation and location targeting based on partner restaurant name + postcode. Unfortunately the script remained company IP!
+- Managed large databases of AdWords campaigns/keywords/bids etc using basic VBA.
 
-**Company Name** (start_date to end_date)   
-*Your job title*  
-- Any experience relevent to software development
+**Flixmedia** (Nov 2016 - Oct 2018)   
+*Manager - CRM & Delivery Team*  
+- In partnership with Electrolux, scoped, created brief and PM'd creation of new product comparison widget for deployment on retailer product pages (though didn't write any of the code myself!)
+- Worked closely with product team to scope and brief suggestions on platform improvements/suggestions
 
-## Hobbies
+**Trustpilot** (Mar 2019 - Aug 2019)
+*Lead Business Development Manager*
+- Consultative selling of a pretty technical product, supporting clients with integrations with eCom platforms; Magento etc.
 
-I've climbed some of the hardest north face alpine climbs in Europe - I'm crazy about Rock Climbing!
-I ran the club at my university - loved teaching new people and sharing my passion.
-Also enjoy a number of different sports, climbing, football, cycling, running, squash
-Real advocate of fitness and health - whilst at Brainlabs I organized and ran a circuits session, a football match, and a climbing session once a week.
-Thoroughly enjoy oil painting, gardening and reading (both non-fiction and trash!)
+## Hobbies and Interests
+
+- I've climbed some of the hardest north face alpine climbs in Europe - I'm crazy about Rock Climbing!
+- I ran the club at my university - loved teaching new people and sharing my passion.
+- Also enjoy a number of different sports, climbing, football, cycling, running, squash
+- Real advocate of fitness and health - whilst at Brainlabs I organized and ran a circuits session, a football match, and a climbing session once a week.
+- Thoroughly enjoy oil painting, gardening and reading (both non-fiction and trash!)
