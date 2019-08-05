@@ -1,6 +1,6 @@
 ## Your Name
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
+A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
 
 ## Skills
 
@@ -23,18 +23,18 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (Aug 2019 to Dec 2019)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Your University / College (Sep 2011 to Jun 2014)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Chemistry with Medicinal Chemistry
+- 2:1
+- Ran peer-led tutor groups for year below on both inorganic and physical chemistry modules
 
 #### Any other qualifications
 
@@ -52,4 +52,8 @@ That in some arguable way make you a better software developer or well-rounded p
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+I've climbed some of the hardest north face alpine climbs in Europe - I'm crazy about Rock Climbing!
+I ran the club at my university - loved teaching new people and sharing my passion.
+Also enjoy a number of different sports, climbing, football, cycling, running, squash
+Real advocate of fitness and health - whilst at Brainlabs I organized and ran a circuits session, a football match, and a climbing session once a week.
+Thoroughly enjoy oil painting, gardening and reading (both non-fiction and trash!)
