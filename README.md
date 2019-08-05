@@ -1,6 +1,6 @@
 [Projects](#latest-projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/daniel-gyi/)
 
-## Your Name
+## Dan Gyi
 
 After years of working in PM/Marketing/Saas roles in London, I wanted to start to specialize in doing something more creative. One Direction turned me down, so I decided to join Makers...  
 
@@ -18,7 +18,7 @@ My goal is to work at a company where I can continue to both improve and diversi
 
 I love problem solving efficiently. At Brainlabs we were spending too much time on manual creation of ad campaigns, decreasing profitability. I suggested automating the process for Deliveroo, which we later [won an award for](https://www.brainlabsdigital.com/brainlabs-best-large-ppc-agency/)!
 
-#### Collaborative
+#### Collaboration
 
 I've always preferred shared success over individual recognition; the reward of achieving something collectively, for me, is what I always hope to build in any professional role.  
 At Flixmedia, for instance, I developed new processes to help the client and tech teams communicate more effectively, and share responsibility for feature launches and go-live.
@@ -32,7 +32,7 @@ At Flixmedia, for instance, I developed new processes to help the client and tec
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (Sep 2011 to Jun 2014)
+#### University of Manchester (Sep 2011 to Jun 2014)
 
 - Chemistry with Medicinal Chemistry
 - 2:1
