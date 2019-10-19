@@ -8,11 +8,11 @@ I've been studying at Makers Academy since August 2019, really cementing best pr
 My goal is to work at a company where I can continue to both improve and diversify the skillset that I'm really enjoying developing at Makers, as well as hopefully use some of the experience I've gained working on technical projects in previous roles.
 
 ## Latest Projects
-- Group project - [Makers BnB](https://github.com/DanGyi23/wk6-MakersBnB)
+- **[Makers BnB](https://github.com/DanGyi23/wk6-MakersBnB)**
   * Using a combination of front-end JS/JQuery, and back end Ruby, we created our very own version of AirBnB. Full description in Readme.
-- Group project - [AceBook](https://github.com/DanGyi23/acebook)
+- **[AceBook](https://github.com/DanGyi23/acebook)**
   * A live web app using a variety of different technologies, primarily Rails. Full description in Readme link above.
-- [News App](https://github.com/DanGyi23/news-summary-challenge)
+- **[News App](https://github.com/DanGyi23/news-summary-challenge)**
   * I challenged myself to build a news-summary web app, using Guardian and Alien APIs. I chose to build it twice, once using vanilla front-end JS, and once using JQuery, to compare the processes.
 
 ## Skills
