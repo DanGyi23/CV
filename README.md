@@ -8,9 +8,12 @@ I've been studying at Makers Academy since August 2019, really cementing best pr
 My goal is to work at a company where I can continue to both improve and diversify the skillset that I'm really enjoying developing at Makers, as well as hopefully use some of the experience I've gained working on technical projects in previous roles.
 
 ## Latest Projects
-- Makers Challenge - [Student Repository](https://github.com/DanGyi23/student-directory)
-- Makers Challenge - [Ruby Mastery](https://github.com/DanGyi23/mastery-quizzes)
-- Makers Challenge - [CMD Murder Mystery](https://github.com/DanGyi23/clmystery)
+- Group project - [Makers BnB](https://github.com/DanGyi23/wk6-MakersBnB)
+  * Using a combination of front-end JS/JQuery, and back end Ruby, we created our very own version of AirBnB. Full description in Readme.
+- Group project - [AceBook](https://github.com/DanGyi23/acebook)
+  * A live web app using a variety of different technologies, primarily Rails. Full description in Readme link above.
+- [News App](https://github.com/DanGyi23/news-summary-challenge)
+  * I challenged myself to build a news-summary web app, using Guardian and Alien APIs. I chose to build it twice, once using vanilla front-end JS, and once using JQuery, to compare the processes.
 
 ## Skills
 
@@ -25,12 +28,15 @@ At Flixmedia, for instance, I developed new processes to help the client and tec
 
 ## Education
 
-#### Makers Academy (Aug 2019 to Dec 2019)
+#### Makers Academy (Aug 2019 to Nov 2019)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Ruby, Rails, JavaScript(+ JQuery/React)
+- RSpec, Jasmine, Building own test frameworks
+- Travis/Circle CI
+- Heroku/AWS servers
+- HTML/CSS/Bootstrap
 
 #### University of Manchester (Sep 2011 to Jun 2014)
 
@@ -61,4 +67,4 @@ At Flixmedia, for instance, I developed new processes to help the client and tec
 - I ran the club at my university - loved teaching new people and sharing my passion.
 - Also enjoy a number of different sports, climbing, football, cycling, running, squash
 - Real advocate of fitness and health - whilst at Brainlabs I organized and ran a circuits session, a football match, and a climbing session once a week.
-- Thoroughly enjoy oil painting, gardening and reading (both non-fiction and trash!)
+- Thoroughly enjoy oil painting, gardening and reading
