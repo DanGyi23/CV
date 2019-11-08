@@ -52,6 +52,7 @@ At Flixmedia, for instance, I developed new processes to help the client and tec
 
 - Chemistry with Medicinal Chemistry
 - 2:1
+- Dissertation used basic FORTRAN to model the crystallization pattern of polysilanes. Probability based iterations given a start-state (similar to the game of life)
 - Ran peer-led tutor groups for year below on both inorganic and physical chemistry modules
 - Worked at the students union, in events planning and student support
 
