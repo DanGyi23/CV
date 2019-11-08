@@ -2,12 +2,17 @@
 
 ## Dan Gyi
 
-After years of working in PM/Marketing/Saas roles in London, I wanted to start to specialize in doing something more creative. One Direction turned me down, so I decided to join Makers...  
+After years of working in PM/Marketing/Saas roles in London, I wanted to start to specialize in doing something more creative. 
+I joined Makers because I wanted to work in a more collaborative role that enabled that creativity/problem solving. It turned out to be one of the best decisions I had ever made!
 
-I've been studying at Makers Academy since August 2019, really cementing best practices and understanding of software development.  
-My goal is to work at a company where I can continue to both improve and diversify the skillset that I'm really enjoying developing at Makers, as well as hopefully use some of the experience I've gained working on technical projects in previous roles.
+I studied at Makers Academy from August to November 2019, understanding the core principles of the most popular programming languages, and really cementing best processes and practices as a software engineer.
+My goal is to work at a company where I can continue to both improve and diversify the skillset that I really enjoyed developing at Makers, as well as hopefully use some of the experience I've gained working on technical projects in previous roles.
 
 ## Latest Projects
+- **[Chessy](https://github.com/DanGyi23/makers-final-project)**
+  * 2-week final project at Makers. We self-taught a new language (Python) and built a 1/2 player Slack Chess Bot with the option to have random rules injected into the game state. All game logic was coded from scratch, and I decided to build a minimax algorithm for improved AI evaluation, using some heuristics to improve the decision-making in the opening. 
+- **[Tech Tests](https://github.com/DanGyi23/tech-tests-wk10-makers)**
+  * A selection of tech-tests that demonstrate strong TDD process and understanding of core principles of Ruby/JS
 - **[Makers BnB](https://github.com/DanGyi23/wk6-MakersBnB)**
   * Using a combination of front-end JS/JQuery, and back end Ruby, we created our very own version of AirBnB. Full description in Readme.
 - **[AceBook](https://github.com/DanGyi23/acebook)**
@@ -30,13 +35,18 @@ At Flixmedia, for instance, I developed new processes to help the client and tec
 
 #### Makers Academy (Aug 2019 to Nov 2019)
 
-- OOP, TDD, MVC, DDD
+- Ruby 
+- Rails
+- JavaScript(+ JQuery/React)
+- Python
+- OOP, TDD, MVC
 - Agile/XP
-- Ruby, Rails, JavaScript(+ JQuery/React)
-- RSpec, Jasmine, Building own test frameworks
+- RSpec, Jasmine, Pytest, Building own test frameworks
 - Travis/Circle CI
-- Heroku/AWS servers
+- Deploying on Heroku/AWS servers
 - HTML/CSS/Bootstrap
+- Configuring APIs (Twilio/Guardian/Slack)
+- Majority of projects were paired/team. Some individual work with strong focus on process.
 
 #### University of Manchester (Sep 2011 to Jun 2014)
 
@@ -67,4 +77,4 @@ At Flixmedia, for instance, I developed new processes to help the client and tec
 - I ran the club at my university - loved teaching new people and sharing my passion.
 - Also enjoy a number of different sports, climbing, football, cycling, running, squash
 - Real advocate of fitness and health - whilst at Brainlabs I organized and ran a circuits session, a football match, and a climbing session once a week.
-- Thoroughly enjoy oil painting, gardening and reading
+- Thoroughly enjoy reading, keeping up with scientific/technological advances, and meeting interesting people
