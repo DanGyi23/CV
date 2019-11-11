@@ -60,17 +60,17 @@ At Flixmedia, for instance, I developed new processes to help the client and tec
 
 **Brainlabs Digital** (Mar 2015 - Aug 2016)    
 *Account Director*  
-- Won "Best Local Campaign" at UK Search Awards for writing JS script that automated campaign creation and location targeting based on partner restaurant name + postcode. Unfortunately the script remained company IP!
+- Won "Best Local Campaign" at UK Search Awards for writing JS script that automated campaign creation and location targeting based on partner restaurant name + postcode.
 - Managed large databases of AdWords campaigns/keywords/bids etc using basic VBA.
 
 **Flixmedia** (Nov 2016 - Oct 2018)    
 *Manager - CRM & Delivery Team*  
-- In partnership with Electrolux, scoped, created brief and PM'd creation of new product comparison widget for deployment on retailer product pages (though didn't write any of the code myself!)
+- In partnership with Electrolux, scoped, created brief and PM'd creation of new product comparison widget for deployment on retailer product pages.
 - Worked closely with product team to scope and brief suggestions on platform improvements/suggestions
 
 **Trustpilot** (Mar 2019 - Aug 2019)  
 *Lead Business Development Manager*
-- Consultative selling of a pretty technical product, supporting clients with integrations with eCom platforms; Magento etc.
+- Consultative selling of a very technical product, supporting clients with integrations with eCom platforms; Magento etc.
 
 ## Hobbies and Interests
 
