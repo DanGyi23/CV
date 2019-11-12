@@ -58,7 +58,7 @@ At Flixmedia, for instance, I developed new processes to help the client and tec
 
 ## Experience
 
-**Brainlabs Digital** (Mar 2015 - Aug 2016)    
+**Brainlabs Digital** (Aug 2014 - Aug 2016)    
 *Account Director*  
 - Won "Best Local Campaign" at UK Search Awards for writing JS script that automated campaign creation and location targeting based on partner restaurant name + postcode.
 - Managed large databases of AdWords campaigns/keywords/bids etc using basic VBA.
