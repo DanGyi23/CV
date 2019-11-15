@@ -31,10 +31,23 @@ My goal is to work at a company where I can continue to both improve and diversi
 - Travis/Circle CI
 - Deploying on Heroku/AWS servers
 - HTML/CSS/Bootstrap
-- Configuring APIs (Twilio/Guardian/Slack)
+- Configuring APIs (Twilio/Guardian/Slack/Google)
 - Majority of projects were paired/team. Some individual work with strong focus on process.
 
 ## Skills
+
+#### Commercial
+
+- Management experience - teams of up to 12
+- Developed training plans and content for new hires
+- Managed projects from inception, client requirements, planning, through to implementation and delivery
+- Worked as part of a PM team in 2-week sprints, planning sprint meetings, resource, and client requests
+- Managed extremely technical projects and worked alongside tech teams to deliver in structured manner
+- Managed marketing budget to implement re-branding project and digital marketing spend
+- Productized and organized external training seminars as an industry leader whilst at Brainlabs
+- Sold technical solutions to all sizes of company
+- Implemented internal process improvements, such as a switch to using Basecamp and Trello for internal comms and workflow
+
 
 #### Initiative
 
