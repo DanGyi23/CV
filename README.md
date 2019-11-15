@@ -59,7 +59,7 @@ My goal is to work at a company where I can continue to both improve and diversi
 
 - I've always preferred shared success over individual recognition; the reward of achieving something collectively, for me, is what I always hope to build in any professional role.  
 - At Flixmedia, for instance, I developed new processes to help the client and tech teams communicate more effectively, and share responsibility for feature launches and go-live.
-- I developed 2 innovation teams whilst at Brainlabs to work on different technical products for 2 growing clients of ours. We successfully shipped award winning projects that secured us client funding for 2+ years.
+- I put together and managed 2 innovation teams whilst at Brainlabs to work on different technical products for 2 growing clients of ours. We successfully shipped award winning projects that secured us client funding for 2+ years.
 
 ## Education
 
