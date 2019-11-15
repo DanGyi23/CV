@@ -1,4 +1,4 @@
-[Projects](#latest-projects) | [Relevant Experience](#relevant-experience) |[Skills](#skills) | [Education](#education) | [Professional Experience](#professional-experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/daniel-gyi/)
+[Projects](#latest-projects) | [Technical Experience](#technical-experience) | [Skills](#skills) | [Education](#education) | [Professional Experience](#professional-experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/daniel-gyi/)
 
 ## Dan Gyi
 
@@ -17,7 +17,7 @@ My goal is to work at a company where I can continue to both improve and diversi
 - **[News App](https://github.com/DanGyi23/news-summary-challenge)**
   * I challenged myself to build a news-summary web app, using Guardian and Alien APIs. I chose to build it twice, once using vanilla front-end JS, and once using JQuery, to compare the processes.
 
-## Relevant Experience
+## Technical Experience
 
 #### Makers Academy (Aug 2019 to Nov 2019)
 
