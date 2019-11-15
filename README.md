@@ -1,4 +1,4 @@
-[Projects](#latest-projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/daniel-gyi/)
+[Projects](#latest-projects) | [Relevant Experience](#relevant-experience) |[Skills](#skills) | [Education](#education) | [Professional Experience](#professional-experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/daniel-gyi/)
 
 ## Dan Gyi
 
